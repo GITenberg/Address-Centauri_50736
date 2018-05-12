@@ -1,4 +1,8 @@
 _repo: Address-Centauri_50736
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50736-h/images/cover.jpg
 creator:
   author:
     agent_name: Wallace, F. L. (Floyd L.)
@@ -12,6 +16,8 @@ description: "Address: Centauri is a science fiction novel by author F. L. Walla
   \ It was published in 1955 by Gnome Press in an edition of 4,000 copies. The novel\
   \ is an expansion of Wallace's story \"Accidental Flight\" which first appeared\
   \ in the magazine Galaxy Science Fiction in 1952.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50736#Address-Centauri
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-12-21'
 gutenberg_type: Text
